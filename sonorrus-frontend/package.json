@@ -1,0 +1,35 @@
+{
+  "name": "sonorrus-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "goby": "^1.1.2",
+    "jsonwebtoken": "^8.5.1",
+    "pure-react-carousel": "^1.19.4",
+    "react": "^16.8.6",
+    "react-audio-player": "^0.11.0",
+    "react-coverflow": "^0.2.20",
+    "react-dom": "^16.8.6",
+    "react-photo-gallery": "^6.3.4",
+    "react-render-html": "^0.6.0",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "semantic-ui": "^2.4.2",
+    "semantic-ui-react": "^0.86.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
